@@ -1,7 +1,7 @@
 question [mark]: "?"
 (downscore | underscore): "_"
 double dash: "--"
-(bracket | brack | left bracket): "{"
+(bracket | left bracket): "{"
 (rbrack | are bracket | right bracket): "}"
 triple quote: "'''"
 (triple grave | triple back tick | gravy):
@@ -12,7 +12,6 @@ ellipses: "..."
 plus: "+"
 arrow: "->"
 dub arrow: "=>"
-new line: "\\n"
 carriage return: "\\r"
 line feed: "\\r\\n"
 empty dubstring:
